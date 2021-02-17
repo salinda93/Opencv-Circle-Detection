@@ -1,0 +1,26 @@
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\obj\Debug\Question_06_IUP.Form1.resources
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\obj\Debug\Object_Segmentation.Properties.Resources.resources
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\obj\Debug\Question 06 IUP.csproj.GenerateResource.cache
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\obj\Debug\Object Segmentation.exe
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\obj\Debug\Object Segmentation.pdb
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\obj\Debug\Question 06 IUP.csprojAssemblyReference.cache
+D:\Visual Studio 2019 workspace\IUP MID Exam\Question 06 IUP\Object Segmentation\bin\Debug\Object Segmentation.exe.config
+D:\Visual Studio 2019 workspace\IUP MID Exam\Question 06 IUP\Object Segmentation\bin\Debug\Object Segmentation.exe
+D:\Visual Studio 2019 workspace\IUP MID Exam\Question 06 IUP\Object Segmentation\bin\Debug\Object Segmentation.pdb
+D:\Visual Studio 2019 workspace\IUP MID Exam\Question 06 IUP\Object Segmentation\obj\Debug\Question 06 IUP.csprojAssemblyReference.cache
+D:\Visual Studio 2019 workspace\IUP MID Exam\Question 06 IUP\Object Segmentation\obj\Debug\Question_06_IUP.Form1.resources
+D:\Visual Studio 2019 workspace\IUP MID Exam\Question 06 IUP\Object Segmentation\obj\Debug\Object_Segmentation.Properties.Resources.resources
+D:\Visual Studio 2019 workspace\IUP MID Exam\Question 06 IUP\Object Segmentation\obj\Debug\Question 06 IUP.csproj.GenerateResource.cache
+D:\Visual Studio 2019 workspace\IUP MID Exam\Question 06 IUP\Object Segmentation\obj\Debug\Question 06 IUP.csproj.CopyComplete
+D:\Visual Studio 2019 workspace\IUP MID Exam\Question 06 IUP\Object Segmentation\obj\Debug\Object Segmentation.exe
+D:\Visual Studio 2019 workspace\IUP MID Exam\Question 06 IUP\Object Segmentation\obj\Debug\Object Segmentation.pdb
+D:\01 SL DevCode\Still Making Videos\OpenCv & EmguCv Tutorials\OpenCv C# Tutorials\Fianl 05 Videos\IT17153096\Question 06 IUP\Object Segmentation\bin\Debug\Object Segmentation.exe.config
+D:\01 SL DevCode\Still Making Videos\OpenCv & EmguCv Tutorials\OpenCv C# Tutorials\Fianl 05 Videos\IT17153096\Question 06 IUP\Object Segmentation\bin\Debug\Object Segmentation.exe
+D:\01 SL DevCode\Still Making Videos\OpenCv & EmguCv Tutorials\OpenCv C# Tutorials\Fianl 05 Videos\IT17153096\Question 06 IUP\Object Segmentation\bin\Debug\Object Segmentation.pdb
+D:\01 SL DevCode\Still Making Videos\OpenCv & EmguCv Tutorials\OpenCv C# Tutorials\Fianl 05 Videos\IT17153096\Question 06 IUP\Object Segmentation\obj\Debug\Question 06 IUP.csprojAssemblyReference.cache
+D:\01 SL DevCode\Still Making Videos\OpenCv & EmguCv Tutorials\OpenCv C# Tutorials\Fianl 05 Videos\IT17153096\Question 06 IUP\Object Segmentation\obj\Debug\Question_06_IUP.Form1.resources
+D:\01 SL DevCode\Still Making Videos\OpenCv & EmguCv Tutorials\OpenCv C# Tutorials\Fianl 05 Videos\IT17153096\Question 06 IUP\Object Segmentation\obj\Debug\Object_Segmentation.Properties.Resources.resources
+D:\01 SL DevCode\Still Making Videos\OpenCv & EmguCv Tutorials\OpenCv C# Tutorials\Fianl 05 Videos\IT17153096\Question 06 IUP\Object Segmentation\obj\Debug\Question 06 IUP.csproj.GenerateResource.cache
+D:\01 SL DevCode\Still Making Videos\OpenCv & EmguCv Tutorials\OpenCv C# Tutorials\Fianl 05 Videos\IT17153096\Question 06 IUP\Object Segmentation\obj\Debug\Question 06 IUP.csproj.CopyComplete
+D:\01 SL DevCode\Still Making Videos\OpenCv & EmguCv Tutorials\OpenCv C# Tutorials\Fianl 05 Videos\IT17153096\Question 06 IUP\Object Segmentation\obj\Debug\Object Segmentation.exe
+D:\01 SL DevCode\Still Making Videos\OpenCv & EmguCv Tutorials\OpenCv C# Tutorials\Fianl 05 Videos\IT17153096\Question 06 IUP\Object Segmentation\obj\Debug\Object Segmentation.pdb

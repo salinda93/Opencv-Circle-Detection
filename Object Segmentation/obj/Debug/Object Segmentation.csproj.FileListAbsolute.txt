@@ -1,0 +1,20 @@
+D:\SLIIT\Year 4 - 2020\Image Understanding and Processing - IT4130 - ELECTIVE\VS workspace for Q6\Object Segmentation\Object Segmentation\bin\Debug\Object Segmentation.exe.config
+D:\SLIIT\Year 4 - 2020\Image Understanding and Processing - IT4130 - ELECTIVE\VS workspace for Q6\Object Segmentation\Object Segmentation\bin\Debug\Object Segmentation.exe
+D:\SLIIT\Year 4 - 2020\Image Understanding and Processing - IT4130 - ELECTIVE\VS workspace for Q6\Object Segmentation\Object Segmentation\bin\Debug\Object Segmentation.pdb
+D:\SLIIT\Year 4 - 2020\Image Understanding and Processing - IT4130 - ELECTIVE\VS workspace for Q6\Object Segmentation\Object Segmentation\bin\Debug\OpenCvSharp.dll
+D:\SLIIT\Year 4 - 2020\Image Understanding and Processing - IT4130 - ELECTIVE\VS workspace for Q6\Object Segmentation\Object Segmentation\obj\Debug\Object Segmentation.csprojResolveAssemblyReference.cache
+D:\SLIIT\Year 4 - 2020\Image Understanding and Processing - IT4130 - ELECTIVE\VS workspace for Q6\Object Segmentation\Object Segmentation\obj\Debug\Object_Segmentation.Form1.resources
+D:\SLIIT\Year 4 - 2020\Image Understanding and Processing - IT4130 - ELECTIVE\VS workspace for Q6\Object Segmentation\Object Segmentation\obj\Debug\Object_Segmentation.Properties.Resources.resources
+D:\SLIIT\Year 4 - 2020\Image Understanding and Processing - IT4130 - ELECTIVE\VS workspace for Q6\Object Segmentation\Object Segmentation\obj\Debug\Object Segmentation.csproj.GenerateResource.Cache
+D:\SLIIT\Year 4 - 2020\Image Understanding and Processing - IT4130 - ELECTIVE\VS workspace for Q6\Object Segmentation\Object Segmentation\obj\Debug\Object Segmentation.exe
+D:\SLIIT\Year 4 - 2020\Image Understanding and Processing - IT4130 - ELECTIVE\VS workspace for Q6\Object Segmentation\Object Segmentation\obj\Debug\Object Segmentation.pdb
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\bin\Debug\Object Segmentation.exe.config
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\bin\Debug\Object Segmentation.exe
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\bin\Debug\Object Segmentation.pdb
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\obj\Debug\Object Segmentation.csprojAssemblyReference.cache
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\obj\Debug\Object_Segmentation.Form1.resources
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\obj\Debug\Object_Segmentation.Properties.Resources.resources
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\obj\Debug\Object Segmentation.csproj.GenerateResource.cache
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\obj\Debug\Object Segmentation.csproj.CopyComplete
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\obj\Debug\Object Segmentation.exe
+C:\Users\Salinda\Desktop\Object Segmentation\Object Segmentation\obj\Debug\Object Segmentation.pdb
